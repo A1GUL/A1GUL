@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @A1GUL Student of Computer Eng.
-- 🌱 I’m currently learning C & Pyhton
+- 🌱 I’m currently learning backend
 - 📫 gulabdullah814@gmail.com
 
 <!---
